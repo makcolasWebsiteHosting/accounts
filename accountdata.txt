@@ -1,8 +1,8 @@
 [
   "Admin",
   "Joined: 5/16/2025",
-  {"Badges": ["Admin"]},
+  {"Badges":["Admin"]},
   "Modopo",
   "Joined: 5/16/2025",
-  {"Badges": ["Admin"]}
+  {"Badges":["Admin"]}
 ]
